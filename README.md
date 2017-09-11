@@ -2,24 +2,27 @@
 
 Design Files and Code for Redbull Makerhats made for Market Hack @ Fakugesi 2017
 
-![schalk](photos/photo3.jpg?raw=true "Schalk")
+![schalk](photos/photo3.jpg?raw=true "Schalk" | width=200)
+![tom](photos/photo6.jpg?raw=true "tom" | width=200)
+![Winston](photos/photo5.jpg?raw=true "Winston"|width=200)
 
-![tom](photos/photo6.jpg?raw=true "Schalk")
+![markethack1](photos/photo1.jpg?raw=true "Markethack1"|width=640)
 
-![Winston](photos/photo5.jpg?raw=true "Winston")
-
-![markethack1](photos/photo1.jpg?raw=true "Markethack1")
-
-![markethack2](photos/photo3.jpg?raw=true "Markethack3")
+![markethack2](photos/photo3.jpg?raw=true "Markethack3"|width=640)
 
 
 # BOM
 
 2x Micro Servo (9g) - https://www.robotics.org.za/FS90
+
 1x https://www.robotics.org.za/PROMINI-5.0
+
 1x AA Battery Pack
+
 2x 3d Printed Wings
+
 1x 3d Printed Servo Bracket
+
 1x Hat
 
 Note, you can use any microcontroller if you can program it
