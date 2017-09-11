@@ -8,7 +8,7 @@ Design Files and Code for Redbull Makerhats made for Market Hack @ Fakugesi 2017
 
 ![markethack1](photos/photo1.jpg?raw=true "Markethack1")
 
-![markethack2](photos/photo3.jpg?raw=true "Markethack3")
+![markethack2](photos/photo2.jpg?raw=true "Markethack3")
 
 
 # BOM
